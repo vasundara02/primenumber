@@ -20,6 +20,8 @@ public class PrimeNumbers {
                 return false; // If divisible, not a prime
             }
         }
-        return true; // If no divisors, it's a prime
+        return true;
+        // If no divisors, it's a prime 
+        //prime
     }
 }
